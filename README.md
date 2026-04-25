@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-Hi 👋, I’m Ajay Kumar — a passionate Java Developer with hands-on experience in building scalable backend systems and working with cloud and DevOps tools. I enjoy solving real-world problems through clean, efficient code and continuously learning new technologies in the software development ecosystem.<br><br>Currently, I’m exploring Cloud (AWS), Docker, Kubernetes, and CI/CD pipelines while strengthening my backend development skills. I love contributing to projects, automating workflows, and building production-ready applications.<br><br>Let’s connect and build something amazing together 🚀
+Hi 👋, I’m Ajay Kumar — a Java Production Support Engineer who enjoys working on backend systems and solving real-world problems with clean and efficient solutions.
+
+I’m currently exploring and working with Cloud (AWS), Linux, Bash scripting, GitHub, Docker, Kubernetes, Terraform, Ansible, observability tools, and CI/CD pipelines while strengthening my backend and DevOps skills.
+
+I enjoy building projects, automating workflows, and continuously learning new technologies in the software development ecosystem.
+
+Let’s connect and build something great 🚀
 
 
 ## 🌐 Socials:
