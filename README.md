@@ -27,10 +27,6 @@ Let’s connect and build something great 🚀
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajay-kumar-6a393a1ab/) 
 
-# 💫 About Me:
-Hi 👋, I’m Ajay Kumar — a Java Production Support Engineer who enjoys working on backend systems and solving real-world problems with clean and efficient solutions.<br><br>I’m currently exploring and working with Cloud (AWS), Linux, Bash scripting, GitHub, Docker, Kubernetes, Terraform, Ansible, observability tools, and CI/CD pipelines while strengthening my backend and DevOps skills.<br><br>I enjoy building projects, automating workflows, and continuously learning new technologies in the software development ecosystem.<br><br>Let’s connect and build something great 🚀
-
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajayvirendrasingh007@gmail.com) 
 
