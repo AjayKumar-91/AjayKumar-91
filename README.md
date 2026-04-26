@@ -1,43 +1,120 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Ajay Kumar</h1>
 
-<!--
-**AjayKumar-91/AjayKumar-91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-Hi 👋, I’m Ajay Kumar — a Java Production Support Engineer who enjoys working on backend systems and solving real-world problems with clean and efficient solutions.
-
-I’m currently exploring and working with Cloud (AWS), Linux, Bash scripting, GitHub, Docker, Kubernetes, Terraform, Ansible, observability tools, and CI/CD pipelines while strengthening my backend and DevOps skills.
-
-I enjoy building projects, automating workflows, and continuously learning new technologies in the software development ecosystem.
-
-Let’s connect and build something great 🚀
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ajay-kumar-6a393a1ab/) 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajayvirendrasingh007@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AjayKumar-91&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AjayKumar-91&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AjayKumar-91&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="center">🚀 DevOps Engineer in Progress | AWS | Kubernetes | Terraform | Docker | CI/CD</h3>
 
 ---
-[![](https://komarev.com/ghpvc/?username=AjayKumar-91&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer+in+Progress;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Docker;Building+Real+World+Cloud+Projects;Java+to+DevOps+Transition+Journey&center=true&width=600&height=50">
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+- 🔭 Working on **AWS + Kubernetes + Terraform projects**
+- 🌱 Learning **DevOps & Cloud Infrastructure Automation**
+- ⚙️ Passionate about **CI/CD pipelines & container orchestration**
+- 🧠 7+ years experience in **Java Production Support**
+- 🎯 Goal: Become a **Cloud / DevOps Engineer (SRE-ready)**
+
+---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform" />
+  <img src="https://skillicons.dev/icons?i=jenkins" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
+
+### 💻 Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### ☁️ AWS EKS with Terraform
+✔ VPC, Subnets, IAM, EKS Cluster  
+✔ Kubernetes workload deployment  
+✔ Infrastructure as Code (IaC)
+
+---
+
+### 🐳 Docker CI/CD Pipeline
+✔ Jenkins automation  
+✔ Docker image build & deployment  
+✔ Git-based pipeline trigger  
+
+---
+
+### 🌐 TrendStore Deployment
+✔ React App containerization  
+✔ AWS EC2 deployment  
+✔ Terraform infrastructure setup  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 DevOps Architecture Flow
+
+```text
+Developer → GitHub → Jenkins CI → Docker Build → AWS / Kubernetes Deployment → Monitoring
+``` id="x8kq3a"
+
+---
+
+## 🎯 Learning Roadmap
+
+- ✔ AWS Core Services
+- ✔ Docker & Containerization
+- ✔ Terraform Infrastructure as Code
+- 🔄 Kubernetes (EKS Advanced)
+- 🔄 CI/CD (Jenkins + GitHub Actions)
+- ⏳ Monitoring (Prometheus + Grafana)
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_PROFILE">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## ⚡ Fun DevOps Quote
+
+> “Automation is not optional — it’s the foundation of modern infrastructure.”
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+</p>
