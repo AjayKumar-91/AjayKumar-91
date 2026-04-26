@@ -4,9 +4,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Engineer+in+Progress;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Docker;Building+Real+World+Cloud+Projects;Java+to+DevOps+Transition+Journey&center=true&width=600&height=50">
-</p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=800&lines=DevOps+Engineer+in+Progress;AWS+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;Building+Cloud+Native+Systems;From+Java+Support+to+DevOps+Engineer" /> </p>
 
 ---
 
@@ -15,7 +13,7 @@
 - 🔭 Working on **AWS + Kubernetes + Terraform projects**
 - 🌱 Learning **DevOps & Cloud Infrastructure Automation**
 - ⚙️ Passionate about **CI/CD pipelines & container orchestration**
-- 🧠 7+ years experience in **Java Production Support**
+- 🧠 4+ years experience in **Java Production Support**
 - 🎯 Goal: Become a **Cloud / DevOps Engineer (SRE-ready)**
 
 ---
