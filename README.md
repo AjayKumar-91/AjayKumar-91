@@ -35,6 +35,7 @@
 ### 💻 Programming
 <p>
   <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=bash" />
   <img src="https://skillicons.dev/icons?i=git" />
   <img src="https://skillicons.dev/icons?i=github" />
@@ -68,53 +69,20 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AjayKumar-91&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKumar-91&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 DevOps Architecture Flow
 
-```text
-Developer → GitHub → Jenkins CI → Docker Build → AWS / Kubernetes Deployment → Monitoring
-``` id="x8kq3a"
-
----
-
-## 🎯 Learning Roadmap
-
-- ✔ AWS Core Services
-- ✔ Docker & Containerization
-- ✔ Terraform Infrastructure as Code
-- 🔄 Kubernetes (EKS Advanced)
-- 🔄 CI/CD (Jenkins + GitHub Actions)
-- ⏳ Monitoring (Prometheus + Grafana)
-
----
-
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
-
----
-
-## ⚡ Fun DevOps Quote
-
-> “Automation is not optional — it’s the foundation of modern infrastructure.”
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-</p>
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins)
+![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black?logo=github)
