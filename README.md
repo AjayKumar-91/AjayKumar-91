@@ -1,66 +1,90 @@
-<h1 align="center">👋 Hi, I'm Ajay Kumar</h1>
+<h1 align="center">👋 Ajay Kumar</h1>
 
-<h3 align="center">🚀 DevOps Engineer in Progress | AWS | Kubernetes | Terraform | Docker | CI/CD</h3>
-
----
-
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=800&lines=DevOps+Engineer+in+Progress;AWS+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD;Building+Cloud+Native+Systems;From+Java+Support+to+DevOps+Engineer" /> </p>
+<h3 align="center">🚀 DevOps Engineer (Aspiring) | AWS | Kubernetes | Terraform | Docker | CI/CD</h3>
 
 ---
 
-## 🧑‍💻 About Me
+## 📄 Professional Summary
 
-- 🔭 Working on **AWS + Kubernetes + Terraform projects**
-- 🌱 Learning **DevOps & Cloud Infrastructure Automation**
-- ⚙️ Passionate about **CI/CD pipelines & container orchestration**
-- 🧠 4+ years experience in **Java Production Support**
-- 🎯 Goal: Become a **Cloud / DevOps Engineer (SRE-ready)**
+Motivated **DevOps Engineer in transition** with **4+ years of experience in Java Production Support** and hands-on exposure to **Cloud, DevOps, and Automation tools**.  
 
----
+Skilled in designing and deploying **scalable cloud infrastructure using AWS, Kubernetes, and Terraform**, along with building **CI/CD pipelines using Jenkins and GitHub Actions**.  
 
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" />
-  <img src="https://skillicons.dev/icons?i=terraform" />
-  <img src="https://skillicons.dev/icons?i=jenkins" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
-### 💻 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=bash" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
+Passionate about **automation, containerization, and cloud-native systems**, with a strong focus on moving into **DevOps / SRE roles**.
 
 ---
 
-## 🚀 Featured Projects
+## 🧑‍💻 Professional Experience
 
-### ☁️ AWS EKS with Terraform
-✔ VPC, Subnets, IAM, EKS Cluster  
-✔ Kubernetes workload deployment  
-✔ Infrastructure as Code (IaC)
+### 💼 Java Production Support Engineer  
+**Corporate Infotech Pvt. Ltd. | Tata Technologies**  
+📅 Experience: 4+ Years  
 
----
-
-### 🐳 Docker CI/CD Pipeline
-✔ Jenkins automation  
-✔ Docker image build & deployment  
-✔ Git-based pipeline trigger  
+- Supported production Java-based enterprise applications  
+- Handled incident management, debugging, and root cause analysis  
+- Worked with Linux servers and deployment troubleshooting  
+- Coordinated with Dev & QA teams for release management  
+- Improved system stability through proactive monitoring  
 
 ---
 
-### 🌐 TrendStore Deployment
-✔ React App containerization  
-✔ AWS EC2 deployment  
-✔ Terraform infrastructure setup  
+## ☁️ DevOps Skills
+
+### 🔧 Cloud & Infrastructure
+- AWS (EC2, VPC, IAM, EKS, S3 basics)
+- Infrastructure as Code (Terraform)
+- Linux System Administration
+
+### 🐳 Containerization & Orchestration
+- Docker (Image creation, containers, networking)
+- Kubernetes (Deployments, Services, Pods, Scaling)
+
+### 🔄 CI/CD & Automation
+- Jenkins Pipelines (Declarative & Scripted)
+- GitHub Actions (basic automation)
+- Git, GitHub version control workflows
+
+### 💻 Programming & Scripting
+- Java (Enterprise Support)
+- Python (Automation scripts)
+- Bash Scripting (Linux automation)
+
+---
+
+## 🚀 Projects
+
+### ☁️ AWS EKS Infrastructure with Terraform
+- Built complete AWS infrastructure using Terraform
+- Created VPC, Subnets, IAM roles, and EKS cluster
+- Deployed containerized applications on Kubernetes
+
+---
+
+### 🐳 CI/CD Pipeline using Jenkins + Docker
+- Automated build, test, and deployment pipeline
+- Dockerized application and pushed images to registry
+- Integrated GitHub webhook for continuous deployment
+
+---
+
+### 🌐 TrendStore Cloud Deployment
+- Deployed full-stack application on AWS EC2
+- Containerized application using Docker
+- Integrated monitoring using Prometheus & Grafana
+
+---
+
+## 🏆 Certifications (Optional Section)
+
+- AWS Cloud Practitioner (In Progress / Planned)
+- Kubernetes (CKA Preparation)
+- Docker Fundamentals
+
+---
+
+## 🎯 Career Objective
+
+To become a **Production-ready DevOps / SRE Engineer** capable of designing, automating, and managing highly scalable cloud infrastructure using modern DevOps tools and practices.
 
 ---
 
@@ -76,11 +100,21 @@
 
 ---
 
-## 📈 DevOps Architecture Flow
+## 📬 Contact
+
+- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 🐙 GitHub: https://github.com/AjayKumar-91  
+
+---
+
+## ⚡ DevOps Stack
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins)
-![GitHub](https://img.shields.io/badge/GitHub-VersionControl-black?logo=github)
+![Linux](https://img.shields.io/badge/Linux-System-grey?logo=linux)
+
+---
