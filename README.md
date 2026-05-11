@@ -1,97 +1,176 @@
-<h1 align="center">👋 Hi, I'm Ajay Kumar</h1>
+<h1 align="center">
+  👋 Hey, I'm Ajay Kumar
+</h1>
 
-<h3 align="center">🚀 Aspiring DevOps Engineer | AWS | Kubernetes | Terraform | Docker | CI/CD Automation</h3>
+<h3 align="center">
+  🚀 DevOps Engineer in Transition | AWS • Kubernetes • Terraform • Docker • CI/CD
+</h3>
+
+<p align="center">
+  <a href="https://github.com/AjayKumar-91">
+    <img src="https://komarev.com/ghpvc/?username=AjayKumar-91&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=800&color=00FFAA&center=true&vCenter=true&width=900&lines=DevOps+Engineer+in+Transition;AWS+%7C+Kubernetes+%7C+Terraform+%7C+CI%2FCD+Automation;Building+Scalable+Cloud+Native+Infrastructure;From+Java+Support+Engineer+to+DevOps+Engineer+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=DevOps+Engineer+in+Transition;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Expert;Building+Scalable+Cloud+Infrastructure;From+Java+Support+Engineer+to+DevOps+Engineer+🚀" />
 </p>
 
 ---
 
-## 🔥 About Me
+# 💫 About Me
 
-- 🚀 Transitioning from **Java Production Support → DevOps / Cloud Engineer**
-- ☁️ Hands-on with **AWS Cloud, Kubernetes, Terraform, Docker**
-- ⚙️ Building real-world **CI/CD pipelines using Jenkins & GitHub Actions**
-- 📦 Strong understanding of **containerized microservices architecture**
-- 🧠 4+ years experience in **Java-based enterprise support & troubleshooting**
-- 🎯 Goal: Become a **Production-ready DevOps / SRE Engineer**
+<img align="right" alt="DevOps" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
----
-
-## 🛠️ Tech Stack
-
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" />
-  <img src="https://skillicons.dev/icons?i=docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" />
-  <img src="https://skillicons.dev/icons?i=terraform" />
-  <img src="https://skillicons.dev/icons?i=jenkins" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-</p>
-
-### 💻 Programming & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=bash" />
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-</p>
+- 🚀 Transitioning from **Java Production Support → DevOps Engineer**
+- ☁️ Hands-on experience with **AWS Cloud Infrastructure**
+- 🐳 Skilled in **Docker, Kubernetes & Containerized Deployments**
+- ⚙️ Building automated **CI/CD Pipelines using Jenkins & GitHub Actions**
+- 📦 Infrastructure as Code using **Terraform**
+- 📊 Monitoring stacks with **Prometheus & Grafana**
+- 🧠 Strong troubleshooting & production support background
+- 🎯 Goal → Become a **Production-ready DevOps / SRE Engineer**
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Tech Stack
 
-### ☁️ AWS EKS Infrastructure with Terraform
-- Built VPC, Subnets, IAM Roles, EKS Cluster using IaC
-- Automated Kubernetes deployment on AWS
-- Designed scalable cloud-native architecture
-
----
-
-### 🐳 CI/CD Pipeline with Docker + Jenkins
-- Automated build → test → deploy pipeline
-- Dockerized application deployment
-- GitHub webhook-based pipeline triggers
-
----
-
-### 🌐 TrendStore Cloud Deployment Project
-- Containerized full-stack application
-- Deployed on AWS EC2 + Kubernetes cluster
-- Integrated monitoring with Prometheus & Grafana
-
----
-
-## 📊 GitHub Stats
+## ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AjayKumar-91&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,linux,bash,git,github" />
+</p>
+
+---
+
+## 💻 Programming & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,mysql" />
+</p>
+
+---
+
+# 🚀 Featured DevOps Projects
+
+---
+
+## ☁️ MindTrack DevOps Project
+
+🔗 **Repository:**  
+👉 https://github.com/AjayKumar-91/mindtrack-devops
+
+### 🔥 Features
+- Dockerized Application Deployment
+- Jenkins CI/CD Pipeline
+- Kubernetes Deployment & Services
+- Prometheus + Grafana Monitoring
+- GitHub Webhook Automation
+- Multi-Environment Deployment Strategy
+
+### ⚙️ Tech Used
+`Docker` • `Kubernetes` • `Jenkins` • `Prometheus` • `Grafana` • `AWS`
+
+---
+
+## 🛒 TrendStore Cloud Deployment
+
+🔗 **Repository:**  
+👉 https://github.com/AjayKumar-91/trendstore-devops
+
+### 🔥 Features
+- Full Stack Containerized Deployment
+- Kubernetes Cluster Management
+- NGINX Reverse Proxy Setup
+- CI/CD Automation Pipeline
+- Monitoring & Alerting Integration
+
+### ⚙️ Tech Used
+`Docker` • `Kubernetes` • `NGINX` • `Jenkins` • `AWS EC2`
+
+---
+
+## 🐳 React App DevOps Automation
+
+🔗 **Repository:**  
+👉 https://github.com/AjayKumar-91/react-app-devops
+
+### 🔥 Features
+- Docker Multi-stage Build
+- Automated Build & Deploy Scripts
+- Docker Compose Deployment
+- Branch-based CI/CD Pipelines
+- Prometheus + Grafana Monitoring
+
+### ⚙️ Tech Used
+`Docker` • `Docker Compose` • `Jenkins` • `Shell Scripting`
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AjayKumar-91&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AjayKumar-91&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AjayKumar-91&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjayKumar-91&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 DevOps Stack
+# ⚡ DevOps Toolkit
 
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?logo=jenkins)
-![Linux](https://img.shields.io/badge/Linux-System-grey?logo=linux)
+<p align="center">
+  
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+
+![Terraform](https://img.shields.io/badge/Terraform-Infrastructure_as_Code-5C4EE5?style=for-the-badge&logo=terraform)
+
+![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins)
+
+![Linux](https://img.shields.io/badge/Linux-System_Administration-black?style=for-the-badge&logo=linux)
+
+</p>
 
 ---
 
-## 🎯 Career Goal
+# 📈 Contribution Graph
 
-> To become a strong DevOps/SRE engineer building scalable, secure, and automated cloud infrastructure.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AjayKumar-91&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/AjayKumar-91">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  
+  <a href="https://www.linkedin.com">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+# 🎯 Career Vision
+
+> Building scalable, secure, automated, and production-grade cloud infrastructure using DevOps & SRE practices.
+
+---
+
+<p align="center">
+  💻 “Automate Everything. Scale Fearlessly. Monitor Continuously.” 🚀
+</p>
