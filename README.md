@@ -117,6 +117,14 @@
 
 ---
 
+# ⚡ DevOps Tools I Work With
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,linux,bash,git,github,vscode" />
+</p>
+
+---
+
 # ⚡ DevOps Toolkit
 
 <p align="center">
@@ -154,6 +162,10 @@
   
   <a href="https://www.linkedin.com">
     <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+   <a href="mailto:ajayvirendrasingh007@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
