@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 DevOps Engineer in Transition | AWS • Kubernetes • Terraform • Docker • CI/CD
+  🚀 DevOps Engineer in Transition | Java Production Support Specialist | AWS • Kubernetes • CI/CD
 </h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=DevOps+Engineer+in+Transition;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Expert;Building+Scalable+Cloud+Infrastructure;From+Java+Support+Engineer+to+DevOps+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=7%2B+Years+IT+Experience;4%2B+Years+Java+Production+Support+L2;DevOps+Engineer+in+Transition;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+with+Jenkins;Building+Production+Ready+Cloud+Infrastructure+🚀" />
 </p>
 
 ---
@@ -24,14 +24,18 @@
 
 <img align="right" alt="DevOps" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-- 🚀 Transitioning from **Java Production Support → DevOps Engineer**
-- ☁️ Hands-on experience with **AWS Cloud Infrastructure**
-- 🐳 Skilled in **Docker, Kubernetes & Containerized Deployments**
-- ⚙️ Building automated **CI/CD Pipelines using Jenkins & GitHub Actions**
-- 📦 Infrastructure as Code using **Terraform**
-- 📊 Monitoring stacks with **Prometheus & Grafana**
-- 🧠 Strong troubleshooting & production support background
-- 🎯 Goal → Become a **Production-ready DevOps / SRE Engineer**
+## 👨‍💻 Professional Summary
+
+- 💼 7+ Years of IT Industry Experience
+- ⚙️ 4+ Years Experience in Java Production Support (L2)
+- 🚀 Transitioning into DevOps & Cloud Engineering
+- ☁️ Hands-on experience with AWS Cloud Infrastructure
+- 🐳 Skilled in Docker, Kubernetes & Containerized Deployments
+- 🔁 CI/CD Automation using Jenkins & GitHub Webhooks
+- 📦 Infrastructure as Code using Terraform
+- 📊 Monitoring using Prometheus, Grafana & CloudWatch
+- 🛠 Strong troubleshooting, deployment & incident management skills
+- 🎯 Target Role → DevOps Engineer / SRE / Cloud Engineer
 
 ---
 
@@ -40,7 +44,7 @@
 ## ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,bash,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,bash,git,github,prometheus,grafana" />
 </p>
 
 ---
@@ -48,64 +52,146 @@
 ## 💻 Programming & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,mysql,vscode" />
 </p>
 
 ---
 
-# 🚀 Featured DevOps Projects
+# 🚀 Production-Ready DevOps Projects
 
 ---
 
-## ☁️ MindTrack DevOps Project
+# 1️⃣ React Application CI/CD Automation
 
-🔗 **Repository:**  
-👉 https://github.com/AjayKumar-91/mindtrack-devops
-
-### 🔥 Features
-- Dockerized Application Deployment
-- Jenkins CI/CD Pipeline
-- Kubernetes Deployment & Services
-- Prometheus + Grafana Monitoring
-- GitHub Webhook Automation
-- Multi-Environment Deployment Strategy
-
-### ⚙️ Tech Used
-`Docker` • `Kubernetes` • `Jenkins` • `Prometheus` • `Grafana` • `AWS`
-
----
-
-## 🛒 TrendStore Cloud Deployment
-
-🔗 **Repository:**  
-👉 https://github.com/AjayKumar-91/trendstore-devops
-
-### 🔥 Features
-- Full Stack Containerized Deployment
-- Kubernetes Cluster Management
-- NGINX Reverse Proxy Setup
-- CI/CD Automation Pipeline
-- Monitoring & Alerting Integration
-
-### ⚙️ Tech Used
-`Docker` • `Kubernetes` • `NGINX` • `Jenkins` • `AWS EC2`
-
----
-
-## 🐳 React App DevOps Automation
-
-🔗 **Repository:**  
+🔗 Repository  
 👉 https://github.com/AjayKumar-91/react-app-devops
 
-### 🔥 Features
-- Docker Multi-stage Build
-- Automated Build & Deploy Scripts
-- Docker Compose Deployment
-- Branch-based CI/CD Pipelines
-- Prometheus + Grafana Monitoring
+## 📌 Project Overview
 
-### ⚙️ Tech Used
-`Docker` • `Docker Compose` • `Jenkins` • `Shell Scripting`
+Production-ready deployment pipeline for a React application using Docker, Jenkins, AWS EC2, Monitoring Stack, and automated CI/CD workflows.
+
+## ⚙️ Key Implementations
+
+### ✅ Application Deployment
+- Deployed React application on AWS EC2
+- Configured application to run on Port 80
+- Configured Security Groups for controlled access
+
+### ✅ Docker & Containerization
+- Created optimized multi-stage Dockerfile
+- Implemented Docker Compose deployment
+- Used Docker image versioning strategy
+
+### ✅ CI/CD Automation
+- Configured Jenkins pipelines for dev & master branches
+- Automated Docker image build & push
+- GitHub Webhook integration for auto-trigger builds
+- Branch-based deployment strategy
+
+### ✅ Shell Scripting
+- build.sh → Automated Docker image build & push
+- deploy.sh → Automated container deployment
+
+### ✅ Monitoring
+- Configured Prometheus monitoring
+- Integrated Grafana dashboards
+- Added application health monitoring & alerts
+
+### ✅ DockerHub Integration
+- Public Dev Repository
+- Private Prod Repository
+- Automated image tagging & deployment
+
+## 🛠️ Tech Stack
+`AWS EC2` • `Docker` • `Docker Compose` • `Jenkins` • `Prometheus` • `Grafana` • `Shell Scripting`
+
+---
+
+# 2️⃣ TrendStore DevOps Deployment on AWS EKS
+
+🔗 Repository  
+👉 https://github.com/AjayKumar-91/trendstore-devops
+
+## 📌 Project Overview
+
+End-to-end DevOps deployment project implementing Kubernetes orchestration, Infrastructure as Code, CI/CD automation, and monitoring on AWS EKS.
+
+## ⚙️ Key Implementations
+
+### ✅ Infrastructure Automation
+- Provisioned AWS infrastructure using Terraform
+- Created VPC, IAM, EC2 & Jenkins setup
+- Automated infrastructure provisioning
+
+### ✅ Kubernetes Deployment
+- Setup AWS EKS Cluster
+- Created Kubernetes Deployment & Service YAML files
+- Exposed application using LoadBalancer service
+
+### ✅ CI/CD Pipeline
+- Configured Jenkins declarative pipeline
+- GitHub Webhook auto-trigger integration
+- Automated Docker build, push & Kubernetes deployment
+
+### ✅ Docker & Registry
+- Dockerized React application
+- DockerHub image repository integration
+
+### ✅ Monitoring & Observability
+- Cluster/Application health monitoring
+- Monitoring stack integration
+
+## 🛠️ Tech Stack
+`AWS EKS` • `Terraform` • `Docker` • `Kubernetes` • `Jenkins` • `GitHub Webhooks`
+
+---
+
+# 3️⃣ Brain Tasks App – AWS DevOps CI/CD Pipeline
+
+🔗 Repository  
+👉 https://github.com/AjayKumar-91/brain-tasks-devops
+
+## 📌 Project Overview
+
+Cloud-native CI/CD deployment pipeline using AWS Developer Tools, EKS, Docker, and Kubernetes.
+
+## ⚙️ Key Implementations
+
+### ✅ Containerization
+- Dockerized React application
+- Built and tested Docker images
+
+### ✅ AWS DevOps Services
+- Configured AWS CodeBuild
+- Configured AWS CodePipeline
+- Automated deployment to EKS
+
+### ✅ Kubernetes Deployment
+- Created Deployment & Service manifests
+- Deployed applications to EKS Cluster
+
+### ✅ Container Registry
+- Used DockerHub / AWS ECR for image storage
+
+### ✅ Monitoring
+- Configured CloudWatch Logs
+- Monitored build, deployment & application logs
+
+## 🛠️ Tech Stack
+`AWS EKS` • `CodeBuild` • `CodePipeline` • `CloudWatch` • `Docker` • `Kubernetes`
+
+---
+
+# 🏆 Key Strengths
+
+- Production Support & Incident Handling
+- CI/CD Pipeline Automation
+- Docker & Kubernetes Deployments
+- AWS Cloud Infrastructure
+- Infrastructure as Code (Terraform)
+- Monitoring & Alerting
+- Linux Administration
+- Troubleshooting & Root Cause Analysis
 
 ---
 
@@ -113,34 +199,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AjayKumar-91&theme=tokyonight" />
-</p>
-
----
-
-# ⚡ DevOps Tools I Work With
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,prometheus,grafana,linux,bash,git,github,vscode" />
-</p>
-
----
-
-# ⚡ DevOps Toolkit
-
-<p align="center">
-  
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-
-![Docker](https://img.shields.io/badge/Docker-Containerization-blue?style=for-the-badge&logo=docker)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
-
-![Terraform](https://img.shields.io/badge/Terraform-Infrastructure_as_Code-5C4EE5?style=for-the-badge&logo=terraform)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge&logo=jenkins)
-
-![Linux](https://img.shields.io/badge/Linux-System_Administration-black?style=for-the-badge&logo=linux)
-
 </p>
 
 ---
@@ -156,27 +214,29 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/AjayKumar-91">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  
-  <a href="https://www.linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
 
-   <a href="mailto:ajayvirendrasingh007@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+<a href="https://github.com/AjayKumar-91">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:ajayvirendrasingh007@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
 ---
 
-# 🎯 Career Vision
+# 🎯 Career Objective
 
-> Building scalable, secure, automated, and production-grade cloud infrastructure using DevOps & SRE practices.
+> DevOps Engineer in Transition with strong Production Support background, focused on building scalable, automated, secure, and highly available cloud infrastructure using DevOps & SRE practices.
 
 ---
 
 <p align="center">
-  💻 “Automate Everything. Scale Fearlessly. Monitor Continuously.” 🚀
+💻 “Automate Everything. Scale Fearlessly. Monitor Continuously.” 🚀
 </p>
