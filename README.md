@@ -216,15 +216,15 @@ Cloud-native CI/CD deployment pipeline using AWS Developer Tools, EKS, Docker, a
 <p align="center">
 
 <a href="https://github.com/AjayKumar-91">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://www.linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/ajay-kumar-6a393a1ab/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:ajayvirendrasingh007@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=ajayvirendrasingh007@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
 </p>
